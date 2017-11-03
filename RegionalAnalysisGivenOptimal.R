@@ -1,3 +1,5 @@
+#Author: Nick Joslyn
+#Version 1.0
 library(tbart)
 library(sp)
 library(ggplot2)
