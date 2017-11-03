@@ -1,4 +1,4 @@
-#Nick Joslyn
+#Author Nick Joslyn
 #Version 1.0
 pOptimalLocationsTradeOff <- function(p, type, distanceMatrix, radius, demand, facility, demandInformation = NULL, facilityInformation = NULL)
 {
