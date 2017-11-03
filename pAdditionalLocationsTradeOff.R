@@ -1,3 +1,5 @@
+#Author: Nick Joslyn
+#Version 1.0
 pAdditionalLocationsTradeOff <- function(p, forceIn, type, distanceMatrix, radius, demand, facility, demandInformation = NULL, facilityInformation = NULL)
 {
   #sets consistently used variables equal to function input before if statements
